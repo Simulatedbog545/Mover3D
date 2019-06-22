@@ -1,5 +1,5 @@
 # Mover3D
-Location of arduino code for the Mover3D mini moving light project
+Location of arduino code for Mover3D: The 3D Printed, DMX Controlled, Desktop Moving Light
 
 Thingiverse Link: https://www.thingiverse.com/thing:3645999
 

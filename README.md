@@ -3,7 +3,7 @@ Location of arduino code for Mover3D: The 3D Printed, DMX Controlled, Desktop Mo
 
 Thingiverse Link: https://www.thingiverse.com/thing:3645999
 
-Instructables Link: TBA
+Instructables Link: https://www.instructables.com/id/Mover3D-The-3D-Printed-DMX-Controlled-Desktop-Movi/
 
 This project uses the DMXSerial library created by Matthias Hertel, a helpful library that makes DMX reception (and various other functions) on 16 MHz Atmega powered Arduinos very easy.
 
